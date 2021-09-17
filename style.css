@@ -131,7 +131,7 @@ section{
 #ss1,#ss2,#ss3{
   position: absolute;
   border-radius: 30px;
-  box-shadow: 0 0 15px;
+  box-shadow: 0 0 10px #0007;
 }
 #ss1{
   height: 250px;
@@ -241,16 +241,16 @@ footer a,footer p{
     height:350px;
   }
   #ss1{
-    top: 550px;
-    left: 10px;
+    top: 590px;
+    left: 50px;
   }
   #ss2{
     top:780px;
-    left:180px;
+    left:200px;
   }
   #ss3{
     top:900px;
-    left:40px;
+    left:70px;
   }
   
   /* features */
