@@ -1,4 +1,4 @@
-# Sqwr-Deski
+# [Sqwr-Deski](https://n-ce.github.io/sqwr-deski/)
 
 Frontend Dev Project based on Vanilla HTML5 & CSS3
 
